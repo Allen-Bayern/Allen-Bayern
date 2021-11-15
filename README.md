@@ -1,4 +1,4 @@
-### Hi there 👋
+# 你们好，我叫月饼，他们都叫我饼哥 👋
 
 <!--
 **Allen-Bayern/Allen-Bayern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 我和妻子两个人住，我们的房子不大，欢迎你们来我家玩。玩累了就...直接吃火锅没问题的！
+- 🌱 志在成为一名超勇的前端工程师
+- 📫 mailto: nobodyplay@yeah.net
