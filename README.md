@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 我和妻子两个人住，我们的房子不大，欢迎你们来我家玩。玩累了就...直接吃火锅没问题的！
-- 🌱 志在成为一名超勇的前端工程师
-- 🍖 爱吃火锅、爱吃韩料、爱吃炒菜
+- 🌱 志在成为一名超勇的全干工程师
+- 🍖 好久没下厨了...兼职厨师
 - 📫 mailto: nobodyplay@yeah.net
 - 🧧 我经常逛[稀土掘金，并拥有自己的号](https://juejin.cn/user/483440848286439)
 - 🆕 正在使用Vue开发一个[新博客](https://allen-bayern.github.io/)
