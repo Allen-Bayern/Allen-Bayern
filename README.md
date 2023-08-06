@@ -1,4 +1,4 @@
-# 你们好，我叫月饼，他们都叫我饼哥 👋
+# Hello world 👋
 
 <!--
 **Allen-Bayern/Allen-Bayern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 我和妻子两个人住，我们的房子不大，欢迎你们来我家玩。玩累了就...直接吃火锅没问题的！
-- 🌱 志在成为一名超勇的全干工程师
-- 🍖 好久没下厨了...兼职厨师
-- 📫 mailto: nobodyplay@yeah.net
-- 🧧 我经常逛[稀土掘金，并拥有自己的号](https://juejin.cn/user/483440848286439)
-- 🆕 正在使用Vue开发一个[新博客](https://allen-bayern.github.io/)
-- 🇨🇳 国内镜像请[点击这里](https://allen_byn.gitee.io/)
+- 全民制作人们大家好，我是练习时长0.4坤年的前端练习生`Yueb`
+- 偶尔在[掘金](https://juejin.cn/user/483440848286439)上更几篇文章
